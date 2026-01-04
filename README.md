@@ -16,12 +16,14 @@ An advanced FiveM roleplay actions resource featuring NUI-based “speech bubble
 ### /me
 `/me [message]` — Perform a character action.
 
-<img width="327" height="444" alt="image" src="https://github.com/user-attachments/assets/88f68551-39da-4574-a6c2-7e4d882c2bbb" />
+<img width="327" height="444" alt="image" src="https://github.com/user-attachments/assets/126ec407-a8af-4a7b-9bbc-6e0b06d80d54" />
+
 
 ### /do
 `/do [message]` — Describe a scene or state.
 
-<img width="327" height="444" alt="image" src="https://github.com/user-attachments/assets/5c6536e8-0ec1-4c3e-9232-a0d51c7a215a" />
+<img width="327" height="444" alt="image" src="https://github.com/user-attachments/assets/6cdc5b96-1457-4863-9b7c-040f10121e7e" />
+
 
 
 
