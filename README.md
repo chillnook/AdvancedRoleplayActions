@@ -1,6 +1,8 @@
 # Advanced Roleplay Actions
 
 An advanced FiveM roleplay actions resource featuring NUI-based “speech bubble” overhead text for `/me` and `/do`, with proximity rendering, optional chat output, framework-aware player names, Discord avatar badges, and built-in spam protection.
+> Note: Looking for something a little more classic and simple?.
+> See: https://github.com/chillnook/SimpleRoleplayActions
 
 ## Features
 - **NUI Overhead Bubbles:** Clean speech-bubble UI rendered above players (action label, player name, and message).
